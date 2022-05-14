@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Berat Ideal</string>
+    <string name="hello_world">Ayo Cek Berat Badan Ideal Kamu!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="masukkan_tinggi">Masukkan Tinggi Badan Kamu</string>
+	<string name="Cek">Cek</string>
+	<string name="Berat_idealmu">Berat Ideal</string>
+</resources>
